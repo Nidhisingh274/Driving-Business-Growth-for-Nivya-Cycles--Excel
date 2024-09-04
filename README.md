@@ -7,6 +7,8 @@ This project involved the creation of a comprehensive dashboard to analyze and v
 - **Interactive Dashboard**: Developed an interactive dashboard equipped with slicers, enabling users to filter data dynamically by marital status, occupation, and income category.
 - **In-Depth Analysis**: Conducted a detailed analysis of the correlations between bike purchases and factors such as income levels, commute distances, education levels, and regional differences.
 - **Effective Data Visualization**: Applied clustered and stacked bar charts to present complex data in a clear and impactful manner, enhancing the interpretability of insights.
+- 
+![Uploading Excel Dashboard.PNG…]()
 
 ## Outcome:
 The analysis generated from this dashboard can inform strategic decisions in marketing and sales, particularly in targeting specific customer segments.
