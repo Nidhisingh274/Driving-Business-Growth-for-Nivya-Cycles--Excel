@@ -15,7 +15,7 @@ The analysis generated from this dashboard can inform strategic decisions in mar
 
 ## Project Overview
 
-The Bike Buyers Insights Dashboard is a data visualization tool developed to analyze and visualize key insights related to bike purchases across various demographic and geographic factors. This project utilizes advanced Excel techniques and interactive dashboard features to explore and present data-driven insights effectively.
+This project utilizes advanced Excel techniques and interactive dashboard features to explore and present data-driven insights effectively.
 
 ## Key Features
 
@@ -24,16 +24,10 @@ The Bike Buyers Insights Dashboard is a data visualization tool developed to ana
 - **Data-Driven Insights**: Analyzed relationships between bike purchases and factors such as income, commute distance, education level, and region.
 - **Visual Storytelling**: Used clustered and stacked bar charts to effectively communicate complex data insights, ensuring clarity and impact.
 
+![Excel Dashboard](https://github.com/user-attachments/assets/41db6ead-dee1-4b04-9778-bd27de907869)
+
 ## Original Source Dataset
 
 Below is a snippet from the original source dataset used in the Bike Buyers Insights Dashboard:
-
-| ID    | Marital Status | Gender | Income       | Children | Education       | Occupation   | Home Owner | Cars | Commute Distance | Region | Age | Purchased Bike |
-|-------|----------------|--------|--------------|----------|-----------------|--------------|------------|------|------------------|--------|-----|----------------|
-| 12496 | M              | F      | $40,000.00   | 1        | Bachelors       | Skilled Manual| Yes        | 0    | 0-1 Miles         | Europe | 42  | No             |
-| 24107 | M              | M      | $30,000.00   | 3        | Partial College | Clerical     | Yes        | 1    | 0-1 Miles         | Europe | 43  | No             |
-| 14177 | M              | M      | $80,000.00   | 5        | Partial College | Professional | No         | 2    | 2-5 Miles         | Europe | 60  | No             |
-| 24381 | S              | M      | $70,000.00   | 0        | Bachelors       | Professional | Yes        | 1    | 5-10 Miles        | Pacific| 41  | Yes            |
-| 25597 | S              | M      | $30,000.00   | 0        | Bachelors       | Clerical     | No         | 0    | 0-1 Miles         | Europe | 36  | Yes            |
 
 
