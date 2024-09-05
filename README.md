@@ -74,14 +74,14 @@ The project is structured into four main sheets:
 
 ## Recommendations
 
-### 1. **Target Middle-Income Males**
-   - Focus marketing campaigns on middle-income males (₹30,000-₹60,000). This demographic shows the highest tendency to purchase bikes and can be a primary target for promotional activities.
+### 1. **Target High-Income Males**
+   - Focus marketing campaigns on High-income males. This demographic shows the highest tendency to purchase bikes and can be a primary target for promotional activities.
 
 ### 2. **Promote Bikes for Short Commutes**
    - Emphasize the benefits of biking for short distances (0-1 miles) in marketing campaigns. Highlight factors like cost savings, convenience, and environmental benefits to attract more buyers in urban and suburban areas.
 
 ### 3. **Regional Marketing Focus**
-   - In **North America**, focus on professionals and high-income individuals by promoting bikes as a fitness and lifestyle choice for commuting.
+   - In **North America**, focus on promoting bikes as a fitness and lifestyle choice for commuting.
    - In **Europe**, tailor marketing strategies to appeal to manual laborers, focusing on affordability, durability, and practicality for daily use.
 
 ### 4. **Education-Specific Campaigns**
