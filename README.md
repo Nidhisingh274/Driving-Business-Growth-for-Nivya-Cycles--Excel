@@ -59,7 +59,7 @@ The project is structured into four main sheets:
    - **Europe's Manual Labor Market**: In Europe, individuals working in manual occupations are more likely to purchase bikes, representing a different target demographic.
 
 ### 4. **Education Level**
-   - **Most Buyers Hold a Bachelor's Degree**: A significant number of bike buyers have a Bachelor's degree. 
+   - **Most Buyers Hold a Bachelor's Degree**: A significant number of bike buyers have a Bachelor's degree and have Partial College education. 
 
 ### 5. **Age and Purchasing Patterns**
    - **Young Buyers Lead the Market**: Bike purchases are highest among individuals aged 0-44. As age increases, the likelihood of purchasing a bike decreases.
@@ -100,7 +100,7 @@ The project is structured into four main sheets:
 ![Excel Dashboard](https://github.com/user-attachments/assets/41db6ead-dee1-4b04-9778-bd27de907869)
 
 ## Conclusion
-This project provides a detailed analysis of the factors influencing bike purchases. By identifying key trends such as income levels, commute distances, education, and regional preferences, businesses can better target potential buyers and fine-tune their marketing strategies. Focusing on High-income males, promoting bikes for short-distance commutes, and developing region-specific campaigns are key strategies to increase bike sales.
+This project provides a detailed analysis of the factors influencing bike purchases. By identifying key trends such as income levels, commute distances, education, and regional preferences, businesses can better target potential buyers and fine-tune their marketing strategies. Focusing on High-income males, married people, people with bachelors degrees entering college, and promoting bikes for short-distance commutes, and developing region-specific campaigns are key strategies to increase bike sales.
 
 
 
