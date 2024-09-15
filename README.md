@@ -1,5 +1,5 @@
 # Bike Buyers Insights Dashboard
-
+![Excel Dashboard](https://github.com/user-attachments/assets/41db6ead-dee1-4b04-9778-bd27de907869)
 
 
 
@@ -96,8 +96,6 @@ The project is structured into four main sheets:
 ### 7. **Occupational Marketing Strategy**
    - Create specific campaigns targeting **professionals** and **management** roles. Emphasize the fitness benefits of biking and how it can save time during commutes.
    - For **manual laborers in Europe**, focus on rugged, reliable, and affordable bikes, positioning them as ideal for both work commutes and personal use.
-
-![Excel Dashboard](https://github.com/user-attachments/assets/41db6ead-dee1-4b04-9778-bd27de907869)
 
 ## Conclusion
 This project provides a detailed analysis of the factors influencing bike purchases. By identifying key trends such as income levels, commute distances, education, and regional preferences, businesses can better target potential buyers and fine-tune their marketing strategies. Focusing on High-income males, married people, people with bachelors degrees entering college, and promoting bikes for short-distance commutes, and developing region-specific campaigns are key strategies to increase bike sales.
