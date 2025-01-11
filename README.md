@@ -1,6 +1,6 @@
 # 🚴‍♂️ **Nivya Cycles Business Dashboard** 🚴‍♀️
 
-![Capture](https://github.com/user-attachments/assets/e3f02c43-279a-43ab-a7c2-4cc1f38d6f62)
+![Capture](https://github.com/user-attachments/assets/037ccd52-9883-4565-aec4-920e7163c1cd)
 
 
 
